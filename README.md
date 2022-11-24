@@ -13,7 +13,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution](https://your-solution-url.com)
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/responsive-nft-preview-card-component-V7l_ZTGWsF)
 - Live Site URL: [GitHub pages](https://saroshfarhan.github.io/nft-preview-card)
 
 ## My process
